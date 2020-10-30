@@ -14,9 +14,7 @@ This repository is a landing page for  the article: [Alicja Gosiewska](https://w
 
 An important part of our article is the concept of Elo-based model ranking. We describe the ratings of models as an analogy to the tournaments with the Elo system. Each data set (tournament) is processed independently. Algorithms (countries) are staging their sets of hyperparameters (players) for duels. These duels are held within the data sets (tournaments) divided into train/test splits (rounds).
 
-<center>
-![](./figures/ELO.png)
-</center>
+<img src="figures/ELO.png" width=800>
 
 
 
